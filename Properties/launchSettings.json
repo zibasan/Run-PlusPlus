@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Run-PlusPlus (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Run-PlusPlus (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
